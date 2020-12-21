@@ -1,0 +1,15 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+calculateOutput	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^		double calculateOutput(std::vector<double> inputData){$/;"	f	language:C++	class:perceptron
+epochs	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^		int epochs = 100;	$/;"	m	language:C++	class:perceptron	file:
+fRand	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^double fRand(double fMin, double fMax){$/;"	f	language:C++
+getWeights	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^		std::vector<double> getWeights(){$/;"	f	language:C++	class:perceptron
+getWeightSize	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^		int getWeightSize(){$/;"	f	language:C++	class:perceptron
+learningRate	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^		double learningRate = 0.1;	$/;"	m	language:C++	class:perceptron	file:
+main	/home/chocochip/Documents/playground/perceptron/main.cpp	/^int main(){$/;"	f	language:C++
+main	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^int main(){$/;"	f	language:C++
+perceptron	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^class perceptron{$/;"	c	language:C++	file:
+randomizeWeights	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^		void randomizeWeights(){$/;"	f	language:C++	class:perceptron	file:
+setEpochs	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^		void setEpochs(int numberEpochs){$/;"	f	language:C++	class:perceptron
+setLR	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^		void setLR(double lr){$/;"	f	language:C++	class:perceptron
+setWeightSize	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^		void setWeightSize(int size){$/;"	f	language:C++	class:perceptron
+weights	/home/chocochip/Documents/playground/perceptron/perceptron.cpp	/^		std::vector<double> weights;$/;"	m	language:C++	class:perceptron	file:
